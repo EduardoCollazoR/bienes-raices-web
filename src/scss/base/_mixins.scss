@@ -33,6 +33,7 @@
     display: $display;
     text-align: center;
     transition: all 0.2s ease-in;
+    border: none;
 
     &:hover {
         background-color: darken($bgColor, 5);
